@@ -40,7 +40,7 @@ tracing.workspace = true
 k256.workspace = true
 memchr = "2.7"
 
-dialoguer = "0.11.0"
+dialoguer = "0.12.0"
 p256 = "0.13.2"
 semver = "1"
 regex = "1"
