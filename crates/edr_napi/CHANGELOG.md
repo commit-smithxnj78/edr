@@ -1,5 +1,15 @@
 # @nomicfoundation/edr
 
+## 0.12.0-next.8
+
+### Minor Changes
+
+- 9bb7098: make all parameters of `eth_feeHistory` rpc call & provider method call required
+
+### Patch Changes
+
+- e0b45d2: Update list of unsupported cheatcodes with cheatcodes up to Foundry 1.3.6
+
 ## 0.12.0-next.7
 
 ### Minor Changes
